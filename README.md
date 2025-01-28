@@ -25,4 +25,15 @@ This is a professional website built to help businesses transition online. The s
 4. **Start the development server by "npm run dev"**:
 Visit `http://localhost:3000` to view the website locally.
 
----
+## Snapshots  
+  
+![Home Page](snapshots/home.png)  
+
+![Cart Page](snapshots/pricelist.png)  
+
+![Home Page](snapshots/contact.png)  
+
+![Cart Page](snapshots/product.png)  
+
+![Home Page](snapshots/enquiry.png)  
+
