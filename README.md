@@ -1,6 +1,6 @@
-# DhaneshnCo Website
+# Business Website
 
-DhaneshnCo is a professional website built to help businesses transition online. The site features a clean, responsive design with dynamic content management. 
+This is a professional website built to help businesses transition online. The site features a clean, responsive design with dynamic content management. 
 
 ## Features
 
