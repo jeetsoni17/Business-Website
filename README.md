@@ -25,6 +25,10 @@ This is a professional website built to help businesses transition online. The s
 4. **Start the development server by "npm run dev"**:
 Visit `http://localhost:3000` to view the website locally.
 
+## Live Version
+
+The website is live at: [dhaneshnco.in](http://dhaneshnco.in)
+
 ## Snapshots  
   
 ![Home Page](snapshots/home.png)  
